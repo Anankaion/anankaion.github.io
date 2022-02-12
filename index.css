@@ -1,0 +1,35 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    color: #0088cc;
+}
+
+body {
+    background-color: #001621;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+th {
+    font-size: 30px;
+}
+
+td {
+    font-size: 20px;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
